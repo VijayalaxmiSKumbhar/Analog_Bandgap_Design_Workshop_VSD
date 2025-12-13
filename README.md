@@ -51,8 +51,31 @@
 <img width="820" height="385" alt="image" src="https://github.com/user-attachments/assets/2e2a1410-e4ec-478b-a6b7-5239b87fa923" />
 
 
+</details>
 
+<details>
+<summary> BGR Principle and its Types</summary>
+<br>
 
+#### BGR Principle
 
+<img width="967" height="513" alt="image" src="https://github.com/user-attachments/assets/b5505651-25fc-4b9c-8e1a-ba38ef6d49e9" />
+<img width="874" height="495" alt="image" src="https://github.com/user-attachments/assets/0a50ca92-1294-44e4-83dc-f97c456d953a" />
+
+#### BGR Types
+
+<img width="972" height="516" alt="image" src="https://github.com/user-attachments/assets/cd49997f-b5c6-4032-ad41-5491b9d78612" />
 
 </details>
+
+<details>
+<summary> Self Biased Current Mirror Based BGR</summary>
+<br>
+
+## Advantages and Limitations
+
+<img width="883" height="527" alt="image" src="https://github.com/user-attachments/assets/fce43689-5cc5-4c04-aae6-2aab08b6d624" />
+
+</details>
+
+
