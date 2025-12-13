@@ -183,7 +183,17 @@
 
 <img width="1039" height="501" alt="image" src="https://github.com/user-attachments/assets/8c6d29b3-04fe-425b-bcfc-9d8f72d8e4a3" />
 
+</details>
+
+<details>
+<summary> Complete BGR Circuit </summary>
+<br>
+
+## Complete BGR Circuit
+
+<img width="936" height="530" alt="image" src="https://github.com/user-attachments/assets/5c0863f5-f6c8-44f5-a579-f09e0b051bf2" />
 
 </details>
+
 
 
