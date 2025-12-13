@@ -88,7 +88,33 @@
 * Reference branch circuit
 * Start-up circuit
   
-</details?
+</details>
 
+<details>
+<summary> CTAT Voltage generation Circuit </summary>
+<br>
+
+## CTAT Voltage generation 
+
+<img width="922" height="337" alt="image" src="https://github.com/user-attachments/assets/55006a99-232b-459c-8657-ab1c6212545e" />
+
+* When the constant current flows through diode or BJT voltage reduces by -2mV/degree centigrade
+* The following structures are not used while designing `CTAT`
+  <img width="893" height="261" alt="image" src="https://github.com/user-attachments/assets/a2758784-9ef6-430f-a183-fcabade26bd2" />
+
+* Solution for CTAT voltage generation is as follows:
+
+<img width="926" height="345" alt="image" src="https://github.com/user-attachments/assets/458231bb-4f17-49e9-ae68-e043d3316e89" />
+
+* CTAT Circuit
+
+<img width="1103" height="531" alt="image" src="https://github.com/user-attachments/assets/7bc79680-13b8-42f5-834e-80a431719627" />
+
+* Different ways of generating CTAT voltage
+  
+<img width="925" height="472" alt="image" src="https://github.com/user-attachments/assets/7100a787-1bed-43f7-b38c-d79f54469bfc" />
+
+
+</details>
 
 
