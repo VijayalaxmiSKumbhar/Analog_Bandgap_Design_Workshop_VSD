@@ -157,4 +157,33 @@
 
 </details>
 
+<details>
+<summary> Reference Voltage Branch Circuit </summary>
+<br>
+
+## Reference voltage branch circuit
+
+<img width="1070" height="507" alt="image" src="https://github.com/user-attachments/assets/82cd3dc5-5954-4269-b682-fd60c0eb85a0" />
+
+## Design of R2 Resistance
+
+<img width="996" height="436" alt="image" src="https://github.com/user-attachments/assets/fad8769c-71f6-4773-965d-0e33d0572488" />
+
+</details>
+
+<details>
+<summary> Start-up Circuit </summary>
+<br>
+
+## Start-up circuit Issue
+
+<img width="1034" height="458" alt="image" src="https://github.com/user-attachments/assets/1399300c-8d2c-4d12-8f17-de0a89e27167" />
+
+## Start-up Circuit
+
+<img width="1039" height="501" alt="image" src="https://github.com/user-attachments/assets/8c6d29b3-04fe-425b-bcfc-9d8f72d8e4a3" />
+
+
+</details>
+
 
