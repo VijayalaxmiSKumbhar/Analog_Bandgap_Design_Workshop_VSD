@@ -14,5 +14,45 @@
 ## Characteristics of BGR
  <img width="1247" height="272" alt="image" src="https://github.com/user-attachments/assets/29c3e07f-078b-4028-b90b-d089a77193b1" />
 
+</details>
+
+<details>
+<summary> Why BGR </summary>
+<br>
+	
+* A battery is unsuitable for use as a reference voltage source
+  * A voltage drops over time
+* A typical power supply is also not suitable
+  * Noisy output and/or residual ripple
+* <img width="1157" height="213" alt="image" src="https://github.com/user-attachments/assets/1066cddf-5953-4320-bf71-23cf277616c5" />
+
+## Solution
+
+<img width="1153" height="157" alt="image" src="https://github.com/user-attachments/assets/9f041dfb-33dd-4971-bebd-98d3e0784993" />
+
+## Applications of BGR
+
+<img width="652" height="380" alt="image" src="https://github.com/user-attachments/assets/4c39ffed-3cbc-425e-9274-cfac84f18093" />
+
+* Low Dropout Regulators (LDR)
+
+<img width="727" height="457" alt="image" src="https://github.com/user-attachments/assets/a4c944d7-d179-48e3-8cd7-6848c7ce6dc9" />
+
+* DC-to-DC Buck Converter
+
+<img width="772" height="497" alt="image" src="https://github.com/user-attachments/assets/3cfbc9f1-7b3f-4ea4-9003-4646704ebbd4" />
+
+* Analog to Digital Converter (ADC)
+
+<img width="702" height="482" alt="image" src="https://github.com/user-attachments/assets/56dd3419-5813-405c-821a-5944cd3276b1" />
+
+* Digital to Analog Converter (DAC)
+
+<img width="820" height="385" alt="image" src="https://github.com/user-attachments/assets/2e2a1410-e4ec-478b-a6b7-5239b87fa923" />
+
+
+
+
+
 
 </details>
