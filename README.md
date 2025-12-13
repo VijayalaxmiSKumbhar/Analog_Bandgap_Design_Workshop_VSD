@@ -133,10 +133,27 @@
 
 <img width="1125" height="323" alt="image" src="https://github.com/user-attachments/assets/fae8cab3-0149-4164-ac85-db826216f96a" />
 
+</details>
 
+<details>
+<summary> Self Bias Current Mirror Circuit </summary>
+<br>
 
+## Current Mirror
 
+<img width="1041" height="502" alt="image" src="https://github.com/user-attachments/assets/4d0606e9-4773-446e-a498-9962f94cc6da" />
 
+## Self-Biased Current Mirror
+
+<img width="1107" height="541" alt="image" src="https://github.com/user-attachments/assets/d1ab5ec0-74dd-4706-89fd-35aefc39c81e" />
+
+## Self-Biased Current Mirror with source resistance (Rs)
+
+<img width="1095" height="591" alt="image" src="https://github.com/user-attachments/assets/4ddb90fe-2e79-4390-8ddc-dab9e09f2f61" />
+
+## Self-Biased Current Mirror Summary
+
+<img width="1045" height="502" alt="image" src="https://github.com/user-attachments/assets/7fa9e229-788e-4a21-9896-274a821671ae" />
 
 </details>
 
