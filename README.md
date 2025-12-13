@@ -117,4 +117,27 @@
 
 </details>
 
+<details>
+<summary> PTAT Voltage generation Circuit </summary>
+<br>
+
+* `PTAT` Voltage generation
+
+<img width="1336" height="718" alt="image" src="https://github.com/user-attachments/assets/caebb775-706a-4054-924d-b1790df3ee66" />
+
+* Various plots
+
+<img width="994" height="484" alt="image" src="https://github.com/user-attachments/assets/88c2441d-adad-4837-8080-eefd6768067f" />
+
+* Design of R1 Resistance
+
+<img width="1125" height="323" alt="image" src="https://github.com/user-attachments/assets/fae8cab3-0149-4164-ac85-db826216f96a" />
+
+
+
+
+
+
+</details>
+
 
