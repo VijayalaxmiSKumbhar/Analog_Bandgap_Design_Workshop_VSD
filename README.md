@@ -78,4 +78,17 @@
 
 </details>
 
+<details>
+<summary> BGR Components </summary>
+<br>
+	
+* `CTAT` voltage generation circuit
+* `PTAT` voltage generation circuit
+* Self Biased Current Mirror Circuit
+* Reference branch circuit
+* Start-up circuit
+  
+</details?
+
+
 
