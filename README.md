@@ -206,9 +206,27 @@
 <img width="563" height="641" alt="image" src="https://github.com/user-attachments/assets/3cf9b4a6-668d-4fd9-bbc1-d0c9f44bb0da" />
 
 * Step 1: Go to the website https://github.com/google/skywater-pdk
+  
 * Step 2: In that go to libraries, select sky130_fd_pr then click on latest @ f62301
+  
 * Step 3: git clone https://github.com/google/skywater-pdk-libs-sky130_fd_pr.git
+  
 <img width="1152" height="346" alt="image" src="https://github.com/user-attachments/assets/2438b7d0-07e6-4584-9161-a258ef5fd3ac" />
+
+* Step 4: git clone the link https://github.com/silicon-vlsi-org/eda-technology
+
+<img width="730" height="237" alt="image" src="https://github.com/user-attachments/assets/796b0dd6-8ec2-4630-884f-829c21d20575" />
+
+* Step 5: `ls` and then cd `eda-technology`
+
+<img width="533" height="132" alt="image" src="https://github.com/user-attachments/assets/247b7144-92c0-4f53-8f59-ea2fab8c47c7" />
+
+* Step 5: Following steps are followed to see the sky130 spice models. For the design sky130.lib.spice will be used.
+
+<img width="1637" height="552" alt="image" src="https://github.com/user-attachments/assets/5c224b99-6a5e-4c65-bc0d-05708d596c1a" />
+
+
+
 
 </details>
 
