@@ -244,3 +244,18 @@
 
 </details>
 
+<details>
+<summary> Lab 2 Design spec, Device data, Design Step </summary>
+<br>
+
+# Design Specification
+
+<img width="702" height="323" alt="image" src="https://github.com/user-attachments/assets/fddb62ac-af82-42fe-bd87-a4448f257b27" />
+
+# Device Datasheet
+
+<img width="1091" height="585" alt="image" src="https://github.com/user-attachments/assets/5794e576-da2a-4f70-abd6-73b2f6d19b0b" />
+
+
+
+</details>
