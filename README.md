@@ -245,7 +245,7 @@
 </details>
 
 <details>
-<summary> Lab 2 Design spec, Device data, Design Step </summary>
+<summary> Lab 2: Design spec, Device data, Design Step </summary>
 <br>
 
 # Design Specification
@@ -291,3 +291,15 @@
 <img width="1020" height="558" alt="image" src="https://github.com/user-attachments/assets/81328301-d4da-4d57-bc56-5b7d7ad02d2f" />
 
 </details>
+
+<details>
+<summary> Lab 3: Component design with spice netlist </summary>
+<br>
+
+# PTAT Voltage generation circuit
+
+<img width="1135" height="589" alt="image" src="https://github.com/user-attachments/assets/3db7200f-2e7c-4568-9491-4e6d6c2b64cb" />
+
+
+</details>
+
