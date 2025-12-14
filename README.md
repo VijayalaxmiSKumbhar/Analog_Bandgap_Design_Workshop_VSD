@@ -252,10 +252,42 @@
 
 <img width="702" height="323" alt="image" src="https://github.com/user-attachments/assets/fddb62ac-af82-42fe-bd87-a4448f257b27" />
 
-# Device Datasheet
+# Device Datasheet: MOSFET & BJT
 
 <img width="1091" height="585" alt="image" src="https://github.com/user-attachments/assets/5794e576-da2a-4f70-abd6-73b2f6d19b0b" />
 
+# Device Datasheet: Resistor
 
+<img width="1042" height="367" alt="image" src="https://github.com/user-attachments/assets/9653b9a6-0668-4f26-ac2d-35e4e612fa3f" />
+
+# Circuit Design
+
+* Step 1: Calculation of Current
+  
+<img width="786" height="255" alt="image" src="https://github.com/user-attachments/assets/a56f9a7a-4fe8-4082-81f5-18a65ab4c984" />
+
+* Step 2: Choosing number of BJT in parallel in branch 2
+
+<img width="1233" height="258" alt="image" src="https://github.com/user-attachments/assets/ddf1a9af-65a6-4f48-8052-ecb0a795c755" />
+
+* Step 3: Calculation of R1
+
+<img width="911" height="172" alt="image" src="https://github.com/user-attachments/assets/515ef033-afc0-4859-a218-d1d3e4745fa4" />
+
+* Step 4: Calculation of R2
+
+<img width="1195" height="347" alt="image" src="https://github.com/user-attachments/assets/1aaa0c3b-3fc6-475f-b535-19a8dd006432" />
+
+* Step 5: PMOS design in SBCM
+
+<img width="820" height="203" alt="image" src="https://github.com/user-attachments/assets/3dee88a0-dad8-4ae9-bc42-1c029257e217" />
+
+* Step 6: NMOS design in SBCM
+
+<img width="1187" height="258" alt="image" src="https://github.com/user-attachments/assets/0a7fb342-f01b-405b-8bd8-ca047bfd6597" />
+
+# Final BGR Design
+
+<img width="1020" height="558" alt="image" src="https://github.com/user-attachments/assets/81328301-d4da-4d57-bc56-5b7d7ad02d2f" />
 
 </details>
