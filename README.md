@@ -233,7 +233,7 @@
 
 * cd `eda-technology/sky130/tech/magic`
   
-* magic -T /home/vsduser/Bandgap_IP/eda-technology/sky130/tech/magic
+* magic -T  /home/vsduser/Bandgap_IP/eda-technology/sky130/tech/magic
 
 <img width="1692" height="867" alt="image" src="https://github.com/user-attachments/assets/9fd200d3-0cf4-43e7-aede-cd4a0a3e5f59" />
 
