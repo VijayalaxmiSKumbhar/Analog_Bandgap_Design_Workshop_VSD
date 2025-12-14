@@ -221,9 +221,10 @@
 
 <img width="533" height="132" alt="image" src="https://github.com/user-attachments/assets/247b7144-92c0-4f53-8f59-ea2fab8c47c7" />
 
-* Step 5: Following steps are followed to see the sky130 spice models. For the design sky130.lib.spice will be used.
+* Step 5: Following steps are followed to see the sky130 spice models. For the design sky130.lib.spice and sky130_fd_pr__model__pnp.model.spice will be used.
 
-<img width="1637" height="552" alt="image" src="https://github.com/user-attachments/assets/5c224b99-6a5e-4c65-bc0d-05708d596c1a" />
+<img width="1637" height="552" alt="image" src="https://github.com/user-attachments/assets/91e2aae0-728f-4cae-b6b0-71c0996f7cee" />
+
 
 
 
