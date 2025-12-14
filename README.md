@@ -225,6 +225,17 @@
 
 <img width="1637" height="552" alt="image" src="https://github.com/user-attachments/assets/91e2aae0-728f-4cae-b6b0-71c0996f7cee" />
 
+* Step 6: To include library and model files in the spice, following path address need to be given
+
+<img width="742" height="78" alt="image" src="https://github.com/user-attachments/assets/e7e03e7b-93e0-4616-9b81-4f839640c692" />
+
+# Steps to open the Magic 
+
+* cd `eda-technology/sky130/tech/magic`
+  
+* magic -T /home/vsduser/Bandgap_IP/eda-technology/sky130/tech/magic
+
+<img width="1692" height="867" alt="image" src="https://github.com/user-attachments/assets/9fd200d3-0cf4-43e7-aede-cd4a0a3e5f59" />
 
 
 
