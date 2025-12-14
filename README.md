@@ -1,4 +1,4 @@
-# Bandgap IP Design using SKY130 Technology Node
+# Bandgap Design Theory
 
 <details>
 <summary> Introduction to Bandgap Voltage Reference (BGR) </summary>
@@ -196,4 +196,19 @@
 </details>
 
 # Bandgap Design Labs using SKY130
+
+<details>
+<summary> Lab 1: Tools and PDK Setup </summary>
+<br>
+
+## Analog Design Flow
+
+<img width="563" height="641" alt="image" src="https://github.com/user-attachments/assets/3cf9b4a6-668d-4fd9-bbc1-d0c9f44bb0da" />
+
+* Step 1: Go to the website https://github.com/google/skywater-pdk
+* Step 2: In that go to libraries, select sky130_fd_pr then click on latest @ f62301
+* Step 3: git clone https://github.com/google/skywater-pdk-libs-sky130_fd_pr.git
+<img width="1152" height="346" alt="image" src="https://github.com/user-attachments/assets/2438b7d0-07e6-4584-9161-a258ef5fd3ac" />
+
+</details>
 
