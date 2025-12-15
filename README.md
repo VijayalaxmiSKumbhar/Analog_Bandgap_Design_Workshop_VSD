@@ -300,6 +300,11 @@
 
 <img width="1135" height="589" alt="image" src="https://github.com/user-attachments/assets/3db7200f-2e7c-4568-9491-4e6d6c2b64cb" />
 
+#### Spice netlist for PTAT circuit
+
+* vim ptat_circuit.sp
+  
+* <img width="1146" height="883" alt="image" src="https://github.com/user-attachments/assets/c6a756eb-85c3-4571-8884-c77d5952d304" />
 
 </details>
 
