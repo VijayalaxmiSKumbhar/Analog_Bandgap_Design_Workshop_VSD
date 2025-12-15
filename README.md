@@ -308,3 +308,30 @@
 
 </details>
 
+<details>
+<summary> Lab 4: CTAT design and prelayout simulation </summary>
+<br>
+
+## CTAT voltage generation circuit
+
+<img width="697" height="257" alt="image" src="https://github.com/user-attachments/assets/2c5c84d9-1fd5-4e24-8325-3bbb410d1593" />
+
+#### Three different cases of CTAT voltage generation
+
+* Case 1:
+
+<img width="440" height="242" alt="image" src="https://github.com/user-attachments/assets/f64567b0-232d-46da-9b43-0e0f5594b226" />
+
+* Case 2:
+
+<img width="457" height="236" alt="image" src="https://github.com/user-attachments/assets/6be3cd7a-5e80-4d51-a5bc-46f787b4893b" />
+
+* Case 3:
+
+<img width="481" height="212" alt="image" src="https://github.com/user-attachments/assets/c7ed97df-cf73-409a-bd4d-8533df02c63f" />
+
+#### Spice code for CTAT circuit
+
+<img width="1172" height="645" alt="image" src="https://github.com/user-attachments/assets/46dd311c-2434-4066-9e2b-b811ee2af784" />
+
+</details>
