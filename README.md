@@ -429,3 +429,28 @@ plot v(qp1)
 <img width="700" height="542" alt="image" src="https://github.com/user-attachments/assets/cbd30cf2-4b95-4109-9141-eb9918f217f3" />
 
 </details>
+
+
+<details>
+<summary> Lab 5: PTAT design and prelayout simulation </summary>
+<br>
+
+#### Simulation of PTAT Voltage Generation
+
+* Plot `v(qp1)`
+
+<img width="771" height="997" alt="image" src="https://github.com/user-attachments/assets/08092667-bdf2-4265-861c-445a3ef99cf4" />
+
+* Plot `v(qp1) v(ra1)
+
+<img width="703" height="622" alt="image" src="https://github.com/user-attachments/assets/2c08c6bc-1d55-4e32-a4f0-565c81ffff47" />
+
+* Plot `v(qp2) v(ra1)
+
+<img width="712" height="638" alt="image" src="https://github.com/user-attachments/assets/5b63acef-c452-428f-b79a-068f26dcf859" />
+
+* PTAT Voltage: ` Plot v(qp2) v(ra1) v(ra1)-v(qp2)
+
+<img width="727" height="606" alt="image" src="https://github.com/user-attachments/assets/063e385c-5483-4c1f-b1f9-6756a2b7b9fc" />
+
+</details>
