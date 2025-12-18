@@ -449,8 +449,19 @@ plot v(qp1)
 
 <img width="712" height="638" alt="image" src="https://github.com/user-attachments/assets/5b63acef-c452-428f-b79a-068f26dcf859" />
 
-* PTAT Voltage: ` Plot v(qp2) v(ra1) v(ra1)-v(qp2)
+* PTAT Voltage: ` Plot v(qp2) v(ra1) v(ra1)-v(qp2)`
 
 <img width="727" height="606" alt="image" src="https://github.com/user-attachments/assets/063e385c-5483-4c1f-b1f9-6756a2b7b9fc" />
+
+</details>
+
+<details>
+<summary> Lab 6: BGR Circuit </summary>
+<br>
+
+#### BGR
+
+<img width="600" height="491" alt="image" src="https://github.com/user-attachments/assets/eba4f243-7489-42f4-8fd1-8810a6e2012a" />
+
 
 </details>
