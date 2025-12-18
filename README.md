@@ -304,7 +304,59 @@
 
 * vim ptat_circuit.sp
   
-* <img width="1146" height="883" alt="image" src="https://github.com/user-attachments/assets/c6a756eb-85c3-4571-8884-c77d5952d304" />
+* Spice Netlist for PTAT
+
+```
+*** PTAT Voltage Generation
+.lib "/home/vsduser/Bandgap_IP/skywater-pdk-libs-sky130_fd_pr/models/sky130.lib.spice" tt 
+
+.include "/home/vsduser/Bandgap_IP/skywater-pdk-libs-sky130_fd_pr/models/sky130_fd_pr__model__pnp.model.spice"
+
+.global vdd gnd
+.temp 27
+
+*** VCVS Definition
+e1    net2    gnd    ra1    qp1    gain=1000
+
+***MOSFET Definition
+
+xmp1    q1    net2       vdd    vdd     sky130_fd_pr__pfet_01v8_lvt     l=2     w=5     m=4
+xmp2    q2        net2    vdd     vdd     sky130_fd_pr__pfet_01v8_lvt     l=2     w=5     m=4
+
+
+*** BJT Definition
+
+xqp1    gnd    gnd    qp1    vdd sky130_fd_pr__pnp_05v5_W3p40L3p40    m=1
+xqp2    gnd     gnd     qp2     vdd sky130_fd_pr__pnp_05v5_W3p40L3p40       m=8
+
+*** Resistor Definition
+xra1    ra1     na1     vdd     sky130_fd_pr__res_high_po_1p41     w=1.41      l=7.8
+xra2    na1     na2     vdd     sky130_fd_pr__res_high_po_1p41     w=1.41    l=7.8
+xra3    na2     qp2     vdd     sky130_fd_pr__res_high_po_1p41     w=1.41    l=7.8
+xra4    na2     qp2     vdd     sky130_fd_pr__res_high_po_1p41     w=1.41    l=7.8
+
+*** Voltage Sources for current measurement
+vid1    q1    qp1    dc    0
+vid2    q2    ra1    dc    0
+
+*** Supply voltage
+vsup    vdd    gnd    dc     2
+.dc    temp    -40    125    5
+
+*** control statement 
+.control
+run
+plot v(qp1) v(ra1)
+plot vid1#branch vid2#branch
+.endc
+.end
+
+```
+
+
+* PTAT Voltage generation output
+
+<img width="1398" height="547" alt="image" src="https://github.com/user-attachments/assets/37c85bda-b3dd-4432-8500-c41a693de87b" />
 
 </details>
 
@@ -332,6 +384,48 @@
 
 #### Spice code for CTAT circuit
 
-<img width="1172" height="645" alt="image" src="https://github.com/user-attachments/assets/46dd311c-2434-4066-9e2b-b811ee2af784" />
+```
+*** CTAT Voltage Generation
+
+.lib "/home/vsduser/Bandgap_IP/skywater-pdk-libs-sky130_fd_pr/models/sky130.lib.spice" tt 
+
+.include "/home/vsduser/Bandgap_IP/skywater-pdk-libs-sky130_fd_pr/models/sky130_fd_pr__model__pnp.model.spice"
+
+
+
+.global vdd gnd
+
+.temp 27
+
+
+
+
+*** BJT Definition
+
+xqp1  gnd  gnd  qp1  gnd sky130_fd_pr__pnp_05v5_W3p40L3p40         m=1
+
+
+*** Supply voltage and Current
+
+vsup     vdd gnd dc 2
+
+isup     vdd qp1 dc 10u
+
+.dc temp       -40 125 5
+
+
+*** control statement 
+
+.control
+run
+plot v(qp1)
+.endc 
+.end
+
+```
+
+#### CTAT Voltage Generation Output
+
+<img width="700" height="542" alt="image" src="https://github.com/user-attachments/assets/cbd30cf2-4b95-4109-9141-eb9918f217f3" />
 
 </details>
