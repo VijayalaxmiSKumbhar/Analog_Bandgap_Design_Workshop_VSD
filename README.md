@@ -1231,7 +1231,31 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 
   <img width="663" height="341" alt="image" src="https://github.com/user-attachments/assets/5c121c2a-59d2-4261-9283-d274c1a730bc" />
 
+* To see the extracted spice file of nfets, give the command ` vim nfets.spice `
 
+<img width="1211" height="897" alt="image" src="https://github.com/user-attachments/assets/1bd92a7c-9341-4661-b91e-303b267b64c9" />
+
+* Similar extraction can be done for other individual elements
+
+## Top Level Extraction
+
+* Commands
+  1.  extract all
+  2. ext2sim label on
+  3. ext2sim
+  4. ext2spice scale off
+  5. ext2spice hierarchy off
+  6. ext2spice
+
+## LVS
+
+* In the top.spice, comment all the parasitics
+* Open netgen
+* In the window write the following command
+  * lvs "top.sp bgr" "top.spice top" /home/vsduser/Bandgap_IP/eda-technology/sky130/tech/netgen/sky130_setup.tcl then press enter
+* vim comp.out
+* vim top.spice
+* ngspice top.spice
 
 </details>
 
