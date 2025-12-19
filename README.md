@@ -456,10 +456,10 @@ plot v(qp1)
 </details>
 
 <details>
-<summary> Lab 6: BGR Circuit </summary>
+<summary> Lab 6: BGR (ideal) design and prelayout simulation </summary>
 <br>
 
-#### BGR
+#### BGR Circuit using VCVS as OPAMP
 
 <img width="600" height="491" alt="image" src="https://github.com/user-attachments/assets/eba4f243-7489-42f4-8fd1-8810a6e2012a" />
 
