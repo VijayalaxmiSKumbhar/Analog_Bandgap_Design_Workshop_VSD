@@ -1105,4 +1105,14 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 
 </details>
 
+<details>
+<summary> Lab 9: Layout of the components </summary>
+<br>
+
+
+
+
+
+</details>
+
 
