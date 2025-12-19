@@ -685,6 +685,7 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 
 <img width="702" height="552" alt="image" src="https://github.com/user-attachments/assets/66b3cbe2-85af-41d4-9dbc-4f3c4b35cbb2" />
 
+
 #### Simulation Case 2: BGR at TT corner
 
 * Spice Code
@@ -781,12 +782,12 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 
 <img width="705" height="537" alt="image" src="https://github.com/user-attachments/assets/304bb4d3-9d4a-4cd7-8315-2b2d136ff170" />
 
-
 #### Simulation Case 3: BGR at FF corner
 
 * Spice Code
 
 ```
+
 **** Bandgap reference circuit using self-bias current mirror at ff corner****
 
 .lib "/home/vsduser/Bandgap_IP/skywater-pdk-libs-sky130_fd_pr/models/sky130.lib.spice" ff 
@@ -865,6 +866,8 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 
 .endc
 .end
+
+```
 
 * Plot `v(vref)`
 
