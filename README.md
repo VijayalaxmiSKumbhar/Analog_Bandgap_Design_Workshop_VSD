@@ -1117,11 +1117,87 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 
 <img width="1916" height="1012" alt="image" src="https://github.com/user-attachments/assets/1c35c65f-a102-4e66-b729-f1b30bdfeed8" />
 
+* Basic commands
+
+| #  | Command                 | Purpose                      |
+| -- | ----------------------- | ---------------------------- |
+| 1  | `:layers`               | Show available layers        |
+| 2  | `:layer metal1`         | Set active layer             |
+| 3  | `:paint poly`           | Draw polysilicon             |
+| 4  | `:paint ndiff`          | Draw n-diffusion             |
+| 5  | `:paint pdiff`          | Draw p-diffusion             |
+| 6  | `:paint nwell`          | Draw n-well (SKY130)         |
+| 7  | `:paint metal1`         | Draw Metal1                  |
+| 8  | `:paint via1`           | Via between M1–M2            |
+| 9 | `:label VDD metal1`     | Label power net              |
+| 10 | `:label GND metal1`     | Label ground net             |
+| 11 | `:drc check`            | Run DRC                      |
+| 12 | `:drc why`              | Explain DRC error            |
+| 13 | `:extract all`          | Extract layout               |
+| 14 | `:ext2spice lvs`        | Generate SPICE for LVS       |
 
 
+#### The following devices are present in BGR circuit
+
+* `BJTs`
+* `Resistor Bank`
+* `PFETs`
+* `NFETs`
+
+#### Design of Basic Cells
+
+#### Design of NFET
+
+* In our design `LVT` type `NFET` are used. In our design there are two different size of NFET
+
+#### Case 1: Design of NFET with w=5 l=1
+
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/b7547f97-d121-4719-a8b2-6e821163d5d8" />
+
+#### Case 2: Design of NFET with w=1 l=7
+
+<img width="1435" height="745" alt="image" src="https://github.com/user-attachments/assets/097ffd4e-289d-4136-97da-5a7d2fba035a" />
 
 
+#### Design of PFET
+
+* In our design `LVT` type `PFET` are used
+* Design of PFET with w=5 l=2
+
+<img width="1438" height="743" alt="image" src="https://github.com/user-attachments/assets/6f8d1e47-4975-4e4e-95d0-c7d514d7b637" />
+
+#### Design of Resistor
+
+* Poly resistors with w=1.41 l=7.8
+
+<img width="1435" height="737" alt="image" src="https://github.com/user-attachments/assets/b24e3895-b9ce-4adc-bcb5-4ec45a9881d7" />
+
+#### Design of PNP type of BJT
+
+<img width="1431" height="737" alt="image" src="https://github.com/user-attachments/assets/0b82cb8c-0932-45ec-8cd1-6af00e811da6" />
+
+## Design of NFETS
+
+<img width="1436" height="743" alt="image" src="https://github.com/user-attachments/assets/31793327-0401-4d49-8b66-ea7adf5f4bcb" />
+
+## Design of PFETs
+
+<img width="1438" height="745" alt="image" src="https://github.com/user-attachments/assets/e220a4f3-dd80-4d9c-8c12-6e0570f235a4" />
+
+## Design of Resistor Bank
+
+<img width="1433" height="737" alt="image" src="https://github.com/user-attachments/assets/fa66ae4a-e6fe-44ee-8799-612642c4e3da" />
+
+## Design of BJT PNP10
+
+<img width="1432" height="738" alt="image" src="https://github.com/user-attachments/assets/1ce1f43d-4cf3-4346-b1d6-141f45c39e74" />
+
+## Design of Starter NFET w=1 l=7
+
+<img width="1432" height="740" alt="image" src="https://github.com/user-attachments/assets/0db2ae48-b3a9-47c0-857c-a7b3c6316753" />
 
 </details>
+
+
 
 
