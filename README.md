@@ -1199,5 +1199,40 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 </details>
 
 
+<details>
+<summary> Lab 10: top-level layout extraction lvs postlayout simulation Final </summary>
+<br>
+
+## Top level Design
+
+<img width="1426" height="737" alt="image" src="https://github.com/user-attachments/assets/f647189f-93a7-474f-a651-c55afe7ae25a" />
+
+## Extraction of individual components
+
+* NFET
+  * Steps for Extraction
+    * Go to Options then click on cell Manager
+    * Click on top
+    * Click on nfets
+    
+	<img width="442" height="425" alt="image" src="https://github.com/user-attachments/assets/2bfcf01b-9904-4668-b6f0-23884557a170" />
+
+	* Load the cell
+
+    <img width="1536" height="740" alt="image" src="https://github.com/user-attachments/assets/e3c6bde2-4a4c-4b87-bbfe-efb2104f42db" />
+
+* Write the following commands for extraction
+  1. extract all
+  2. ext2sim label on
+  3. ext2sim
+  4. ext2spice scale off
+  5. ext2spice hierarchy off
+  6. ext2spice
+
+  <img width="663" height="341" alt="image" src="https://github.com/user-attachments/assets/5c121c2a-59d2-4261-9283-d274c1a730bc" />
+
+
+
+</details>
 
 
