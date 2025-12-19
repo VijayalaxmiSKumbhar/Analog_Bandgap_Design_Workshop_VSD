@@ -576,3 +576,16 @@ plot v(vref)
 <img width="707" height="665" alt="image" src="https://github.com/user-attachments/assets/adbe1808-7af8-4cf7-8859-c6f207d6723e" />
 
 </details>
+
+
+<details>
+<summary> Lab 7: Complete BGR design and prelayout simulation </summary>
+<br>
+
+#### Complete BGR Circuit
+
+<img width="728" height="445" alt="image" src="https://github.com/user-attachments/assets/5e87b74e-12b3-4d35-ac55-fd5b74df3651" />
+
+
+</details>
+
