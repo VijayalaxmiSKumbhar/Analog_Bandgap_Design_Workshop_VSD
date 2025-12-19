@@ -1109,6 +1109,15 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 <summary> Lab 9: Layout of the components </summary>
 <br>
 
+* To invoke the magic, give the command ` magic -T /home/vsduser/Bandgap_IP/eda-technology/sky130/tech/magic/sky130A.tech`
+
+<img width="1447" height="912" alt="image" src="https://github.com/user-attachments/assets/7344bdd4-9ae9-4eaa-8162-666faca99cdb" />
+
+* For grids Press `g`
+
+<img width="1916" height="1012" alt="image" src="https://github.com/user-attachments/assets/1c35c65f-a102-4e66-b729-f1b30bdfeed8" />
+
+
 
 
 
