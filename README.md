@@ -559,6 +559,20 @@ plot v(vref)
 
 <img width="702" height="752" alt="image" src="https://github.com/user-attachments/assets/e3ed57fd-1b56-4ee7-a5a9-46fe2676633a" />
 
+* Plot `v(qp3)`
 
+<img width="697" height="651" alt="image" src="https://github.com/user-attachments/assets/da1f6bd6-303d-40da-b0ee-407f253abd01" />
+
+* Plot `v(vref)-v(qp3)`
+
+<img width="697" height="710" alt="image" src="https://github.com/user-attachments/assets/efa65089-24fd-4e61-aacd-d334bba4b940" />
+
+* Plot `v(vref)-v(qp3) v(qp3) v(vref)`
+
+<img width="697" height="740" alt="image" src="https://github.com/user-attachments/assets/80568ed0-347d-47f6-859b-c9b61ff995f9" />
+
+* To measure voltage across resistance R1: Plot `v(ra1)-v(qp2)`
+
+<img width="707" height="665" alt="image" src="https://github.com/user-attachments/assets/adbe1808-7af8-4cf7-8859-c6f207d6723e" />
 
 </details>
