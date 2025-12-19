@@ -1259,4 +1259,14 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 
 </details>
 
+<details>
+<summary>  Acknowledgements </summary>
+<br>
+
+ - Prof. Santunu Sarangi (https://www.linkedin.com/in/santunu-sarangi-b731305b/?originalSubdomain=in)
+ - Kunal Ghosh Co-founder VSD Coporation Private Limited
+ - https://github.com/vsdip/vsd-bandgap/
+   
+</details>
+
 
