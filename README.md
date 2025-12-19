@@ -770,6 +770,8 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 .endc
 .end
 
+```
+
 * Plot `v(vref)`
 
 <img width="705" height="716" alt="image" src="https://github.com/user-attachments/assets/44fe114c-546e-4d98-85f1-aba5107945c7" />
@@ -882,8 +884,6 @@ plot vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch
 * Plot `vid1#branch vid2#branch vid3#branch vid4#branch vid5#branch`
 
 <img width="707" height="540" alt="image" src="https://github.com/user-attachments/assets/9b88f269-dd8d-49b9-b8f0-a674bc6506ad" />
-
-
 
 </details>
 
